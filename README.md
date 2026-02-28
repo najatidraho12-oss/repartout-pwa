@@ -1,6 +1,6 @@
 # Repartout - Application Spring Boot (Projet de Fin de Module)
 
-## 📌 Description
+##  Description
 
 Repartout est une application web développée avec Spring Boot dans le cadre d’un projet de fin de module en Génie Informatique.
 
@@ -8,7 +8,7 @@ L’application permet la gestion complète des clients, des machines ainsi que 
 
 ---
 
-## 🎯 Objectifs du Projet
+##  Objectifs du Projet
 
 - Mettre en pratique l’architecture JEE avec Spring Boot
 - Implémenter le modèle MVC
@@ -18,7 +18,7 @@ L’application permet la gestion complète des clients, des machines ainsi que 
 
 ---
 
-## 🚀 Technologies utilisées
+##  Technologies utilisées
 
 - Java
 - Spring Boot
@@ -30,7 +30,7 @@ L’application permet la gestion complète des clients, des machines ainsi que 
 
 ---
 
-## 🏗️ Architecture du projet
+##  Architecture du projet
 
 Le projet suit une architecture structurée :
 
@@ -42,7 +42,7 @@ Le projet suit une architecture structurée :
 
 ---
 
-## 🔐 Fonctionnalités principales
+##  Fonctionnalités principales
 
 - Gestion des clients
 - Gestion des machines
@@ -52,7 +52,7 @@ Le projet suit une architecture structurée :
 
 ---
 
-## ⚙️ Exécution du projet
+##  Exécution du projet
 
 ```bash
 mvn spring-boot:run
